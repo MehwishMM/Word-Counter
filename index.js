@@ -1,3 +1,4 @@
+#!/usr/env node 
 // import the 'inquirer' module, which is a command line interface for Node.js
 import inquirer from "inquirer";
 import chalk from "chalk";
