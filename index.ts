@@ -12,7 +12,7 @@ const answers:{
    message:chalk.red.bold("Enter your sentence to count the word"),
 
 
-g
+
 },
 ]);
 const words = answers.sentence.trim().split("");
